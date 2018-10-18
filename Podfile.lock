@@ -1,0 +1,57 @@
+PODS:
+  - Alamofire (4.5.1)
+  - CCValidator (1.0.2)
+  - CountryPickerView (1.0.0)
+  - IQKeyboardManagerSwift (5.0.6)
+  - Kingfisher (4.3.1)
+  - Mapbox-iOS-SDK (3.7.0)
+  - MapboxGeocoder.swift (0.7.0)
+  - PhoneNumberKit (2.1.0):
+    - PhoneNumberKit/PhoneNumberKitCore (= 2.1.0)
+    - PhoneNumberKit/UIKit (= 2.1.0)
+  - PhoneNumberKit/PhoneNumberKitCore (2.1.0)
+  - PhoneNumberKit/UIKit (2.1.0):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - PKHUD (5.0.0)
+  - SideMenuController (0.2.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - CCValidator
+  - CountryPickerView
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - Mapbox-iOS-SDK (~> 3.7)
+  - MapboxGeocoder.swift
+  - PhoneNumberKit
+  - PKHUD
+  - SideMenuController
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - CCValidator
+    - CountryPickerView
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - Mapbox-iOS-SDK
+    - MapboxGeocoder.swift
+    - PhoneNumberKit
+    - PKHUD
+    - SideMenuController
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  CCValidator: 49175409dcd9da1a1bd8d7cc6db31d44a301da84
+  CountryPickerView: c5958f3078a746c526c2b18177504b6ab1ba297e
+  IQKeyboardManagerSwift: 02bfbb0dff71c66d0ab77d80d25dfce0c3717735
+  Kingfisher: 75541c4b62f02e1fde6f9772303de3d9ebe8f5b3
+  Mapbox-iOS-SDK: 699818d30e1ed4985d3efc6a06c40b90907c586d
+  MapboxGeocoder.swift: b1277a2ca6a63c1a8edfa82871f5771075b1e015
+  PhoneNumberKit: 62003f40ff75315fd3738286558bc365365ac222
+  PKHUD: 3c001512c6e002091184197a8de7a20420786e3b
+  SideMenuController: b463d2b3aa58e2afe57f57a07938fa9a647894ca
+
+PODFILE CHECKSUM: ef61288f1392a80152bffe92a117decdf479f98c
+
+COCOAPODS: 1.5.0

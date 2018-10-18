@@ -1,0 +1,18 @@
+{
+    "card_brand_icon": "cc-mastercard",
+    "card_brand_styled": "MasterCard",
+    "id": 3,
+    "user_id": 5,
+    "method_name": "cc_card",
+    "sc_upo_id": "2143823",
+    "sc_upo_status": "enabled",
+    "sc_upo_expire": "2018-10-01",
+    "card_name": "Adrian R",
+    "card_last4": "5100",
+    "card_brand": "master_card",
+    "card_type": null,
+    "card_exp_month": "10",
+    "card_exp_year": "18",
+    "created_at": "2018-01-17T08:35:30.391Z",
+    "updated_at": "2018-01-17T08:35:30.391Z"
+}
